@@ -5,4 +5,4 @@
 - 💬 Ask me about AI, Cybersecurity, or Web Development.
 
 
-https://media.giphy.com/media/xdgisqRDFyO9G/giphy.gif?cid=ecf05e47okraetbmhxvj7gjcqekp0wcvrxd4k88kk3oxp7ji&ep=v1_gifs_search&rid=giphy.gif&ct=g
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNmZ3pxaGdqOHE5bjl3YnB4bWtjMnRreThoOW8yM3BmenQ1ZG4wOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif
