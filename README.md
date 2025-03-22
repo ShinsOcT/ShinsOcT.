@@ -4,4 +4,4 @@
 - 🎯 Skills: Python, JavaScript, HTML, CSS, Rust, Go, C++.
 - 💬 Ask me about AI, Cybersecurity, or Web Development.
 
-![My Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Anime Pixel Art](https://giphy.com/gifs/8-bit-art-pixel-graphics-DxQJSfEOm5wFi)
